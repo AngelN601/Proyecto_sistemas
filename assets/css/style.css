@@ -1,0 +1,92 @@
+#espacio{
+    margin-right: 20px;
+}
+
+
+#contenedor{
+    margin-top: 15px;
+    margin-left: 550px;
+    margin-right: 550px;
+    text-align: center;
+}
+
+#Objetivo{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.colorGr{
+    background-color: rgb(202, 198, 198);
+}
+
+.margen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#general{
+    font-family: 'Black Ops One', cursive;
+    
+}
+
+#temas{
+    font-family: 'Signika Negative', sans-serif;
+}
+
+
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-top: 10px;
+    font-size: small;
+    font-family: 'Signika Negative';
+}
+
+#alumnos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.lista{
+    list-style: none;
+}
+
+#centrar{
+    text-align: center;
+}
+
+
+
+#AlumTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #f2f2f2;
+}
+
+
+#AlumTable th {
+    background-color: #000000; 
+    color: white;
+}
+
+
+#AlumTable tbody tr:nth-child(even) {
+    background-color: #f9f9f9; 
+}
+
+
+
